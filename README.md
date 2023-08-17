@@ -1,0 +1,2 @@
+- 👋 Hi, I’m wictor
+- 🌱 I’m currently learning Java and improving my python
