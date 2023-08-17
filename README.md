@@ -1,2 +1,3 @@
 - 👋 Hi, I’m wictor
-- 🌱 I’m currently learning Java and improving my python
+- 🌱 I’m learning Java and improving my python
+- 📍 currently living in João Pessoa,PB
