@@ -1,3 +1,3 @@
 - 👋 Hi, I’m wictor!
-- 🌱 I’m learning JavaScrip and improving my front end abilities.
+- 🌱 I’m improving my quality assurance habilities making bdd tests with cypress, gherkin and cucumber.
 - 📍 Currently living in João Pessoa,PB.
